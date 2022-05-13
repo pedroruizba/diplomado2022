@@ -1,0 +1,1 @@
+#Crear funcion 1 al 10 con incrementos de .1
