@@ -1,6 +1,6 @@
 #
-# Diferencias finitas centradas
-# Método 2 para calcular Derivación Numérica
+# Derivada de primer orden hacia adelante:
+# Método 3
 #
 #
 
