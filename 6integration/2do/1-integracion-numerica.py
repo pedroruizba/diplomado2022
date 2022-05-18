@@ -2,7 +2,7 @@
 from math import sin, sqrt
 
 def f(x):
-    return 2*(sin(sqrt(x))-x)
+    return 2*(sin(sqrt(x)))-x
 
 a = 0
 b = 1.9724
